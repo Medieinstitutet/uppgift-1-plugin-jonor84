@@ -9,12 +9,12 @@ To install and use this plugin in your WordPress WooCommerce installation, follo
 2. Open the terminal or command prompt and run the following command to clone the plugin into the correct folder:
 
     ```bash
-    git clone https://github.com/Medieinstitutet/uppgift-1-plugin-jonor84.git wp-content/plugins/jonor84-collection-plugin
+    git clone https://github.com/Medieinstitutet/uppgift-1-plugin-jonor84.git wp-content/plugins/j84-playertypes
     ```
 
 3. Once the plugin is cloned, log in to your WordPress admin dashboard.
 
-4. Go to **Plugins** > **Installed Plugins** and find the **Jonor84 Collection Plugin**.
+4. Go to **Plugins** > **Installed Plugins** and find the **J84-playertypes** plugin.
 
 5. Click **Activate** to enable the plugin.
 
