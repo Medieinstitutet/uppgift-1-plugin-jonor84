@@ -14,7 +14,7 @@ To install and use this plugin in your WordPress WooCommerce installation, follo
 
 3. Once the plugin is cloned, log in to your WordPress admin dashboard.
 
-4. Go to **Plugins** > **Installed Plugins** and find the **J84-playertypes** plugin.
+4. Go to **Plugins** > **Installed Plugins** and find the **j84-playertypes** plugin.
 
 5. Click **Activate** to enable the plugin.
 
