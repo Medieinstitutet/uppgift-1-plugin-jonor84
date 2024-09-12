@@ -1,5 +1,6 @@
 # Jonor84 Collection Plugin for WooCommerce
 
+
 ## Installation Instructions
 
 To install and use this plugin in your WordPress WooCommerce installation, follow these steps:
@@ -20,9 +21,15 @@ To install and use this plugin in your WordPress WooCommerce installation, follo
 
 6. After activation, the plugin will enable users to create and manage collections within your WooCommerce store, and allow customers to add full collections to their cart.
 
+7. In folder template-files-needed are two files you need in your theme folder.
+If you use Jonor84 theme they are already included.
+https://github.com/Medieinstitutet/uppgift-1-theme-jonor84
+
 ## Features
 
 - Custom post type for user-created collections.
 - Archive pages for collections.
 - One-click functionality to add all products in a collection to the cart.
 - Integration with WooCommerce for seamless shopping experience.
+
+
